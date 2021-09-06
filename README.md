@@ -1,2 +1,2 @@
-# Curricuo Web
+# Currículo Web
  Primeiro Projeto Simples
